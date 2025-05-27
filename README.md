@@ -27,8 +27,6 @@ I am Wajhullah from India, currently based in Singapore—a senior .NET develope
 
 - 🔭 I’m currently working on CodeCrafters challenges with an interest in understanding various protocols and low-level system details
 - 🌱 I’m currently learning system design and its concepts 
-
-- 
 <!--
 **wajhullah/wajhullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
